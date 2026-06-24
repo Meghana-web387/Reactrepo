@@ -1,2 +1,3 @@
 # Reactrepo
-This conntains the components of react
+This contains the components of react and theory...
+
